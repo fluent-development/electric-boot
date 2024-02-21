@@ -13,3 +13,7 @@ node_modules
 /resources/electric-manifest.edn
 /target
 .DS_Store
+
+.idea/
+
+electric-boot.iml
